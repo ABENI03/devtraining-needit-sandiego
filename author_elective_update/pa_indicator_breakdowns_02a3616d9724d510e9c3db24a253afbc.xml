@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="pa_indicator_breakdowns">
+    <pa_indicator_breakdowns action="DELETE">
+        <breakdown display_value="Requested for">cea3e52d9724d510e9c3db24a253af70</breakdown>
+        <display>true</display>
+        <indicator display_value="NeedIt: Due Monthly">2bd289ed97a0d510e9c3db24a253af79</indicator>
+        <order/>
+        <sql_statement/>
+        <sys_class_name>pa_indicator_breakdowns</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-07-07 11:31:55</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>02a3616d9724d510e9c3db24a253afbc</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Requested for.NeedIt: Due Monthly</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>pa_indicator_breakdowns_02a3616d9724d510e9c3db24a253afbc</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-07-07 11:31:55</sys_updated_on>
+    </pa_indicator_breakdowns>
+<sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>90dfff56db07851052cec59705961908</instance_id>
+        <instance_name>dev126634</instance_name>
+        <name>pa_indicator_breakdowns_02a3616d9724d510e9c3db24a253afbc</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="pa_indicator_breakdowns">
+    <pa_indicator_breakdowns action="INSERT_OR_UPDATE">
+        <breakdown display_value="Requested for">cea3e52d9724d510e9c3db24a253af70</breakdown>
+        <display>true</display>
+        <indicator display_value="NeedIt: Due Monthly">2bd289ed97a0d510e9c3db24a253af79</indicator>
+        <order/>
+        <sql_statement/>
+        <sys_class_name>pa_indicator_breakdowns</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-07-07 11:31:55</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>02a3616d9724d510e9c3db24a253afbc</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Requested for.NeedIt: Due Monthly</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>pa_indicator_breakdowns_02a3616d9724d510e9c3db24a253afbc</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-07-07 11:31:55</sys_updated_on>
+    </pa_indicator_breakdowns>
+</record_update>]]></payload>
+        <payload_hash>-34557088</payload_hash>
+        <record_name>2bd289ed97a0d510e9c3db24a253af79</record_name>
+        <reverted_from/>
+        <source>eefa29f997e01910e9c3db24a253af60</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-07-08 06:42:33</sys_created_on>
+        <sys_id>890b2df997e01910e9c3db24a253af78</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>181dc8bb8740000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-07-08 06:42:33</sys_updated_on>
+        <type>Indicator Breakdown</type>
+        <update_guid>c50b2df94fe019108492f86e63449578</update_guid>
+        <update_guid_history>c50b2df94fe019108492f86e63449578:0,46a969792be019102800e201589ba141:-1455859994,12a3616d1324d510b731ef51620948c2:952024690</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="NeedIt: Due Monthly">ccbb2d3d97e01910e9c3db24a253afe5</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-07-08 06:45:29</sys_created_on>
+        <sys_db_object display_value="" name="pa_indicator_breakdowns">pa_indicator_breakdowns</sys_db_object>
+        <sys_id>05b987f2da96451181552b507d3ffbc1</sys_id>
+        <sys_metadata>02a3616d9724d510e9c3db24a253afbc</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Requested for.NeedIt: Due Monthly</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent display_value="NeedIt: Due Monthly">2bd289ed97a0d510e9c3db24a253af79</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>pa_indicator_breakdowns_02a3616d9724d510e9c3db24a253afbc</sys_update_name>
+        <sys_update_version display_value="pa_indicator_breakdowns_02a3616d9724d510e9c3db24a253afbc">890b2df997e01910e9c3db24a253af78</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-07-08 06:45:29</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
